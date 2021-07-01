@@ -5,14 +5,12 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 <p align="center">
   <img src="img/learning_map.png" alt="learning_map" height="600">
 </p>
-<br>
-
-*Si vous êtes ici pour évaluer mon niveau, j'ai placer un émoticône "⭐️"  à côté des projets qui incarne le mieux mon niveau actuel.* 
-<br>
+<p align="center">Figure 1: organigramme de mes compétences en informatique</p>
 <br>
 
 
 ## 👨‍💻 MES PROJETS
+*Si vous êtes ici pour évaluer mon niveau, j'ai placer un émoticône "⭐️"  à côté des projets qui incarne le mieux mon niveau actuel.* 
 
 ### Data Analysis
 - **[Dashboard Contaminations Covid-19]()**, un tableau de bord pour suivre et explorer la propagation du Covid-19 ⭐️ 
@@ -41,7 +39,6 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 - [An Introduction to statistical learning](https://www.statlearning.com/) *by Gareth James, Daniela Witten and co*, pour comprendre le fonctionnement mathématique des différents modèles de Machine Learning 
 - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin, pour mieux structurer son code
 <br>
-<br>
 
 ## 👩‍🏫 Mes cours
 - **Maths**
@@ -51,7 +48,6 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 - **[Introduction à SQL et aux bases de données](https://www.youtube.com/watch?v=3KwmNNucIjA&list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg)**, une formations de 22 videos sur le fonctionnement des bases de données avec mysql. Ressource française 
 - **[CS50](https://cs50.harvard.edu/x/2021/)**, le cours introductif d'Harvard concernant les sciences de l’informatique. Une vrai mine d'or !  
 - **[WEB50](https://cs50.harvard.edu/web/2020/)**, cours dispensés par l’université de Harvard pour découvrir le développement web
-<br>
 <br>
 
 ## 🚀 Next step
