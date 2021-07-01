@@ -2,7 +2,11 @@
 
 Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former en autonomie a la `science des données`et au `développement web`. J'ai  également ajouter la liste des cours et livres que j'ai utilisé pour m’instruire. 
 
-*schema qui map mes skills (t shape)* 
+<br>
+<p align="center">
+  <img src="img/learning_map.png" alt="learning_map" width="600">
+</p>
+<br>
 
 *Si vous êtes ici pour évaluer mon niveau, j'ai placer un émoticône "*🙌*"  à côté des projets qui incarne le mieux mon niveau actuel.* 
 <br>
