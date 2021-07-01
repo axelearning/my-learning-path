@@ -57,3 +57,4 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 ## 🚀 Next step
 - approfondir dans le deep learning
 - découvrir React
+- en apprendre plus sur Firebase
