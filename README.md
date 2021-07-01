@@ -1,13 +1,13 @@
 # 🧠 My learning path
-Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former en autonomie a la `science des données`et au `développement web`. J'ai  également ajouter la liste des cours et livres que j'ai utilisé pour m’instruire. 
+Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former en autonomie à la `science des données`et au `développement web`. J'ai  également ajouter la liste des cours et livres que j'ai utilisé pour m’instruire. 
 
 <br>
 <p align="center">
-  <img src="img/learning_map.png" alt="learning_map" width="600">
+  <img src="img/learning_map.png" alt="learning_map" height="600">
 </p>
 <br>
 
-*Si vous êtes ici pour évaluer mon niveau, j'ai placer un émoticône "*🙌*"  à côté des projets qui incarne le mieux mon niveau actuel.* 
+*Si vous êtes ici pour évaluer mon niveau, j'ai placer un émoticône "⭐️"  à côté des projets qui incarne le mieux mon niveau actuel.* 
 <br>
 <br>
 
@@ -15,19 +15,19 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 ## 👨‍💻 MES PROJETS
 
 ### Data Analysis
-- **[Dashboard Contaminations Covid-19]()**, un tableau de bord pour suivre et explorer la propagation du Covid-19 🙌 
+- **[Dashboard Contaminations Covid-19]()**, un tableau de bord pour suivre et explorer la propagation du Covid-19 ⭐️ 
 - **[Analyse des ventes d'une entreprise]()**, un rapport d'analyses des ventes d'une entreprise fictif d’électronique
 - **[Qui est le joueur de foot le plus prolifique ?]()** Un tableau de bord qui compare les footballeurs qui ont le plus d'impactes sur les buts adverses 
 
     
 ### Machine learning
-- **[Prédire le prix de ventes des maison]()**, un modèle de machine learning capable de prédire le prix de vente d'une maisons suivant une centaine de caractéristiques. Avec une précision de: ... 🙌
+- **[Prédire le prix de ventes des maison]()**, un modèle de machine learning capable de prédire le prix de vente d'une maisons suivant une centaine de caractéristiques. Avec une précision de: ... ⭐️
 - **[Diagnostiquer le diabètes chez un patient]()**, un modele de machine learning capable de prédire à partir d'un diagnostic médical si un patient est atteint du diabètes avec une précision de 73% 
 - **[Algorithms from scratch]()**, 3 fonctions coûts codées "de zéro", c’est-à-dire uniquement  à partir de Numpy, la librairie Numérique de Python
 
     
 ### Web development
-- **[rest auth api]()**, un REST API qui permet de gérer l'authentification et les permissions de différents groupes d'utilisateurs 🙌
+- **[rest auth api]()**, un REST API qui permet de gérer l'authentification et les permissions de différents groupes d'utilisateurs ⭐️
 - **[Forum de discussion]()**, un forum de discussion implémenté à partir du framework Django
 - **[Frontend d'une messagerie emails]()**, le côté client d'une application web de messagerie implementer avec le framework Django (WEB50 projet 3)
 - **[Écrire des requêtes SQL pour résoudre un mystère]()**, retrouver un criminel à partir d'une base de données et d'indices *- jeu de rôle mis en scène par l’université d’Harvard: CS50 projet 7*
