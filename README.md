@@ -28,7 +28,7 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 - [Forum de discussion](), un forum de discussion implémenté à partir du framework Django
 - [Frontend d'une messagerie emails](), le côté client d'une application web de messagerie implementer avec le framework Django (WEB50 projet 3)
 - [Écrire des requêtes SQL pour résoudre un mystère](), retrouver un criminel à partir d'une base de données et d'indices *- jeu de rôle mis en scène par l’université d’Harvard: CS50 projet 7*
-- [Une application web pour gérer des portefeuilles d'actions]()**, création d'un site web pour acheter et vendre des actions financières  *(CS50 projet 9)* 
+- [Une application web pour gérer des portefeuilles d'actions](), création d'un site web pour acheter et vendre des actions financières  *(CS50 projet 9)* 
 <br>
 <br>
 
