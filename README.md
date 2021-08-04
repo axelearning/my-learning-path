@@ -20,7 +20,7 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 ### Machine learning
 - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maisons suivant une centaine de caractéristiques
 - [Diagnostiquer le diabètes chez un patient](), un modele de machine learning capable de prédire à partir d'un diagnostic médical si un patient est atteint du diabètes avec une précision de 73% 
-- [Algorithms from scratch](), 3 fonctions coûts codées "de zéro", c’est-à-dire uniquement  à partir de Numpy, la librairie Numérique de Python
+- [Algorithms from scratch](), 3 modèles de Machine Learning implémentés "de zéro", c’est-à-dire uniquement à partir de Numpy
 
     
 ### Web development
