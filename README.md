@@ -12,7 +12,7 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 ## 👨‍💻 MES PROJETS
 
 ### Data Analysis
-- [Dashboard Contaminations Covid-19](), un tableau de bord pour suivre et explorer la propagation du Covid-19  
+- [Dashboard Contaminations Covid-19](https://github.com/axelearning/dashboard_covid19), un tableau de bord pour suivre et explorer la propagation du Covid-19  
 - [Analyse des ventes d'une entreprise](https://github.com/axelearning/sale_analysis), un rapport d'analyses des ventes d'une entreprise fictif d’électronique
 - [Qui est le joueur de foot le plus prolifique ?]() Un tableau de bord qui compare les footballeurs qui ont le plus d'impactes sur les buts adverses 
 
