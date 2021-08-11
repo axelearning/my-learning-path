@@ -12,22 +12,22 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 ## 👨‍💻 MES PROJETS
 
 ### Data Analysis
-- [Dashboard Contaminations Covid-19](https://github.com/axelearning/dashboard_covid19), un tableau de bord pour suivre et explorer la propagation du Covid-19  
-- [Analyse des ventes d'une entreprise](https://github.com/axelearning/sale_analysis), un rapport d'analyses des ventes d'une entreprise fictif d’électronique
-- [Qui est le joueur de foot le plus prolifique ?]() Un tableau de bord qui compare les footballeurs qui ont le plus d'impactes sur les buts adverses 
+- [dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), un tableau de bord pour suivre et explorer la propagation du virus  
+- [analyse des ventes d'une entreprise](https://github.com/axelearning/sale_analysis), un rapport d'analyses des ventes d'une entreprise fictif d’électronique
+- [qui est le joueur de foot le plus prolifique ?]() Un tableau de bord qui compare les footballeurs qui ont le plus d'impactes sur les buts adverses 
 
     
 ### Machine learning
-- [Classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
-- [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maisons suivant une centaine de caractéristiques
-- [Diagnostiquer le diabètes chez un patient](), un modele de machine learning capable de prédire à partir d'un diagnostic médical si un patient est atteint du diabètes avec une précision de 73% 
+- [classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
+- [house Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maisons suivant une centaine de caractéristiques
+- [diagnostiquer le diabètes chez un patient](), un modele de machine learning capable de prédire à partir d'un diagnostic médical si un patient est atteint du diabètes avec une précision de 73% 
 
     
 ### Web development
-- [Rest auth api](https://github.com/axelearning/REST-authentication-API), un REST API qui permet de gérer l'authentification et les permissions de différents groupes d'utilisateurs 
-- [Forum de discussion](), un forum de discussion implémenté à partir du framework Django
-- [Frontend d'une messagerie emails](), le côté client d'une application web de messagerie implementer avec le framework Django (WEB50 projet 3)
-- [Une application web pour gérer des portefeuilles d'actions](), création d'un site web pour acheter et vendre des actions financières  *(CS50 projet 9)* 
+- [rest auth api](https://github.com/axelearning/REST-authentication-API), un REST API qui permet de gérer l'authentification et les permissions de différents groupes d'utilisateurs 
+- [forum de discussion](), un forum de discussion implémenté à partir du framework Django
+- [frontend d'une messagerie emails](), le côté client d'une application web de messagerie implementer avec le framework Django (WEB50 projet 3)
+- [une application web pour gérer des portefeuilles d'actions](), création d'un site web pour acheter et vendre des actions financières  *(CS50 projet 9)* 
 <br>
 <br>
 
