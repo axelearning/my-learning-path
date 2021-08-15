@@ -4,7 +4,7 @@ Ce dossiers regroupe les principaux projets que j'ai implémenté pour me former
 <br>
 
 <p align="center">
-  <img src="img/learning_map.png" alt="learning_map" height="600">
+  <img src="img/learning_map.png" alt="learning_map">
 </p>
 <p align="center">Figure 1: organigramme de mes compétences en informatique</p>
 <br>
