@@ -14,7 +14,7 @@ Ce dossier regroupe les principaux projets que j'ai implémenté pour me former 
 ### Data Analysis
 - [dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), un tableau de bord pour suivre et explorer la propagation du virus  
 - [analyse des ventes d'une entreprise](https://github.com/axelearning/sale_analysis), un rapport d'analyses des ventes d'une entreprise fictive d’électronique
-- [qui est le joueur de foot le plus prolifique ?]() Un tableau de bord qui compare les footballeurs qui ont le plus d’impactes sur les buts adverses 
+- [qui est le joueur de foot le plus prolifique ?]() Un tableau de bord qui compare les footballeurs qui ont le plus d’impact sur les buts adverses 
 
     
 ### Machine learning
