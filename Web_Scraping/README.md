@@ -2,8 +2,8 @@
 
 scrape [Schoolmouv's](https://www.schoolmouv.fr) website to get the title of each chapter in high school.
 
-- the final [JSON file](#chapters.json)
-- the [script](#main.py)
+- the final [JSON file](chapters.json)
+- the [script](main.py)
 
 ```
 iterate over each years:

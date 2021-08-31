@@ -5,8 +5,8 @@ A collection of selected projects to demonstrate skill sets, knowledge, and what
 
 ## Get the Data
 
-- **[SQL](https://github.com/axelearning/my-learning-path/blob/master/SQL/solve_the_mystery.ipynb)**, querry a database to solve a mystery,
-- **[Web Scrapping]()**, a script used to collect data on soccer players using `beautifullsoup` and `selenium`
+- **[SQL](SQL/solve_the_mystery.ipynb)**, querry a database to solve a mystery,
+- **[Web Scrapping](Web_Scrapping)**, a script used to collect educational data using `beautifullsoup` and `selenium`
   <br>
 
 ## Data Analysis
