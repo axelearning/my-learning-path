@@ -5,7 +5,7 @@ A collection of selected projects to demonstrate skill sets, knowledge, and what
 
 ## Get the Data
 
-- **[SQL]()**, querry a database to solve a mystery,
+- **[SQL](../SQL)**, querry a database to solve a mystery,
 - **[Web Scrapping]()**, a script used to collect data on soccer players using `beautifullsoup` and `selenium`
   <br>
 
