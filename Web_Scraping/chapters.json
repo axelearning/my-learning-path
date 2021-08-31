@@ -1,0 +1,592 @@
+{
+  "6eme": {
+    "Histoire": [
+      "La longue histoire de l'humanit\u00e9 et des migrations",
+      "R\u00e9cits fondateurs, croyances et citoyennet\u00e9 dans la M\u00e9diterran\u00e9e antique au Ier mill\u00e9naire avant J.-C.",
+      "L'Empire romain dans le monde antique"
+    ],
+    "SVT": [
+      "Unit\u00e9 et diversit\u00e9 des \u00eatres vivants",
+      "Les aliments",
+      "La reproduction des \u00eatres vivants",
+      "La mati\u00e8re organique",
+      "La plan\u00e8te Terre",
+      "L'environnement"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Math\u00e9matiques": [
+      "Nombres et calculs",
+      "Grandeurs et mesures",
+      "Espace et g\u00e9om\u00e9trie"
+    ],
+    "G\u00e9ographie": [
+      "Habiter une m\u00e9tropole",
+      "Habiter un espace de faible densit\u00e9",
+      "Habiter les littoraux",
+      "Le monde habit\u00e9"
+    ],
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Allemand": [
+      "La phrase",
+      "Le groupe nominal",
+      "Les groupes pr\u00e9positionnels",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Fran\u00e7ais": [
+      "Le monstre, aux limites de l'humain",
+      "Les r\u00e9cits d'aventures",
+      "R\u00e9cit de cr\u00e9ation, cr\u00e9ation po\u00e9tique",
+      "R\u00e9sister au plus fort : ruses, mensonges et masques"
+    ]
+  },
+  "5eme": {
+    "Enseignement moral et civique": [
+      "Tous diff\u00e9rents mais une seule humanit\u00e9",
+      "Tous \u00e9gaux : l\u2019\u00e9galit\u00e9, une valeur r\u00e9publicaine",
+      "\u00catre solidaire pour d\u00e9fendre l'\u00e9galit\u00e9",
+      "La s\u00e9curit\u00e9 pour tous",
+      "La justice",
+      "Comment garantir la libert\u00e9 et la diversit\u00e9 des opinions ?",
+      "La citoyennet\u00e9, l\u2019engagement et la responsabilit\u00e9",
+      "La citoyennet\u00e9, la nationalit\u00e9 et l\u2019opinion publique",
+      "L'esprit de d\u00e9fense en France"
+    ],
+    "Fran\u00e7ais": [
+      "Se chercher, se construire - Le voyage et l'aventure : pourquoi aller vers l'inconnu ?",
+      "Vivre en soci\u00e9t\u00e9, participer \u00e0 la soci\u00e9t\u00e9 - Avec autrui : famille, amis, r\u00e9seaux",
+      "Regarder le monde, inventer des mondes - Imaginer des univers nouveaux",
+      "Agir sur le monde - H\u00e9ros / h\u00e9ro\u00efnes et h\u00e9ro\u00efsme",
+      "Questionnements compl\u00e9mentaires - L\u2019\u00eatre humain est-il ma\u00eetre de la nature ? "
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Physique-chimie": [
+      "Les \u00e9tats de la mati\u00e8re",
+      "Les transformations chimiques",
+      "L'organisation de la mati\u00e8re dans l'Univers",
+      "Mouvements et interactions",
+      "L'\u00e9nergie",
+      "Les circuits \u00e9lectriques",
+      "Les signaux"
+    ],
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Math\u00e9matiques": [
+      "Nombres et calculs",
+      "Organisation et gestion de donn\u00e9es",
+      "Grandeurs et mesures",
+      "Espace et g\u00e9om\u00e9trie"
+    ],
+    "G\u00e9ographie": [
+      "La question d\u00e9mographique et l'in\u00e9gal d\u00e9veloppement",
+      "Des ressources limit\u00e9es, \u00e0 g\u00e9rer et \u00e0 renouveler",
+      "Pr\u00e9venir les risques, s'adapter au changement global"
+    ],
+    "SVT": [
+      "La plan\u00e8te Terre, l'environnement et l'action humaine",
+      "Le climat et la m\u00e9t\u00e9orologie",
+      "L'exploitation des ressources naturelles",
+      "\u00c9cosyst\u00e8mes et activit\u00e9s humaines",
+      "Nutrition et organisation des animaux",
+      "Nutrition et organisation des plantes",
+      "Reproduction sexu\u00e9e et asexu\u00e9e : dynamique des populations",
+      "La parent\u00e9 des \u00eatres vivants",
+      "Diversit\u00e9 et stabilit\u00e9 g\u00e9n\u00e9tique des \u00eatres vivants",
+      "Le fonctionnement de l'organisme",
+      "Syst\u00e8me nerveux et comportement responsable",
+      "Alimentation et digestion",
+      "Le monde microbien et la sant\u00e9",
+      "Reproduction et comportements sexuels responsables "
+    ],
+    "Histoire": [
+      "Chr\u00e9tient\u00e9s et islam (VIe-XIIIe si\u00e8cles), des mondes en contact",
+      "Soci\u00e9t\u00e9, \u00c9glise et pouvoir politique dans l'occident f\u00e9odal (XIe-XVe si\u00e8cles)",
+      "Transformations de l'Europe et ouverture sur le monde aux XVIe et XVIIe si\u00e8cles"
+    ]
+  },
+  "4eme": {
+    "Allemand": [
+      "La phrase",
+      "Le groupe nominal",
+      "Les groupes pr\u00e9positionnels",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Fran\u00e7ais": [
+      "Se chercher, se construire - Dire l'amour",
+      "Vivre en soci\u00e9t\u00e9, participer \u00e0 la soci\u00e9t\u00e9 - Individu et soci\u00e9t\u00e9 : confrontations de valeurs ?",
+      "Regarder le monde, inventer des mondes - La fiction pour interroger le r\u00e9el",
+      "Agir sur le monde - Informer, s'informer, d\u00e9former ?",
+      "Questionnements compl\u00e9mentaires - La ville, lieu de tous les possibles ?"
+    ],
+    "Physique-chimie": [
+      "Les \u00e9tats de la mati\u00e8re",
+      "Les transformations chimiques",
+      "L'organisation de la mati\u00e8re dans l'Univers",
+      "Mouvements et interactions",
+      "L'\u00e9nergie",
+      "Les circuits \u00e9lectriques",
+      "Les signaux"
+    ],
+    "Enseignement moral et civique": [
+      "Tous diff\u00e9rents mais une seule humanit\u00e9",
+      "Tous \u00e9gaux : l\u2019\u00e9galit\u00e9, une valeur r\u00e9publicaine",
+      "\u00catre solidaire pour d\u00e9fendre l'\u00e9galit\u00e9",
+      "La s\u00e9curit\u00e9 pour tous",
+      "La justice",
+      "Comment garantir la libert\u00e9 et la diversit\u00e9 des opinions ?",
+      "La citoyennet\u00e9, l\u2019engagement et la responsabilit\u00e9",
+      "La citoyennet\u00e9, la nationalit\u00e9 et l\u2019opinion publique",
+      "L'esprit de d\u00e9fense en France"
+    ],
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Math\u00e9matiques": [
+      "Nombres et calculs",
+      "Organisation et gestion des donn\u00e9es",
+      "Grandeurs et mesures",
+      "Espace et g\u00e9om\u00e9trie"
+    ],
+    "SVT": [
+      "La plan\u00e8te Terre, l'environnement et l'action humaine",
+      "Le climat et la m\u00e9t\u00e9orologie",
+      "L'exploitation des ressources naturelles",
+      "\u00c9cosyst\u00e8mes et activit\u00e9s humaines",
+      "Nutrition et organisation des animaux",
+      "Nutrition et organisation des plantes",
+      "Reproduction sexu\u00e9e et asexu\u00e9e : dynamique des populations",
+      "La parent\u00e9 des \u00eatres vivants",
+      "Diversit\u00e9 et stabilit\u00e9 g\u00e9n\u00e9tique des \u00eatres vivants",
+      "Le fonctionnement de l'organisme",
+      "Syst\u00e8me nerveux et comportement responsable",
+      "Alimentation et digestion",
+      "Le monde microbien et la sant\u00e9",
+      "Reproduction et comportements sexuels responsables "
+    ],
+    "G\u00e9ographie": [
+      "L'urbanisation du monde",
+      "Les mobilit\u00e9s humaines transnationales",
+      "Des espaces transform\u00e9s par la mondialisation"
+    ],
+    "Histoire": [
+      "Le XVIIIe si\u00e8cle : expansions, Lumi\u00e8res et r\u00e9volutions",
+      "La R\u00e9volution fran\u00e7aise et l'Empire : nouvel ordre politique et soci\u00e9t\u00e9 r\u00e9volutionn\u00e9e en France et en Europe",
+      "L'Europe et le monde au XIXe si\u00e8cle",
+      "Soci\u00e9t\u00e9, culture et politique dans la France du XIXe si\u00e8cle"
+    ]
+  },
+  "3eme": {
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Enseignement moral et civique": [
+      "Tous diff\u00e9rents mais une seule humanit\u00e9",
+      "Tous \u00e9gaux : l\u2019\u00e9galit\u00e9, une valeur r\u00e9publicaine",
+      "\u00catre solidaire pour d\u00e9fendre l'\u00e9galit\u00e9",
+      "La s\u00e9curit\u00e9 pour tous",
+      "La justice",
+      "Comment garantir la libert\u00e9 et la diversit\u00e9 des opinions ?",
+      "La citoyennet\u00e9, l\u2019engagement et la responsabilit\u00e9",
+      "La citoyennet\u00e9, la nationalit\u00e9 et l\u2019opinion publique",
+      "L'esprit de d\u00e9fense en France"
+    ],
+    "Fran\u00e7ais": [
+      "Se chercher, se construire \u2013 Se raconter se repr\u00e9senter",
+      "Vivre en soci\u00e9t\u00e9, participer \u00e0 la soci\u00e9t\u00e9 \u2013 D\u00e9noncer les travers de la soci\u00e9t\u00e9",
+      "Regarder le monde, inventer des mondes \u2013 Visions po\u00e9tiques du monde",
+      "Agir sur le monde \u2013 Agir dans la cit\u00e9 : individu et pouvoir",
+      "Questionnements compl\u00e9mentaires \u2013 Progr\u00e8s et r\u00eaves scientifiques",
+      "Outils d'analyse litt\u00e9raire"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Histoire": [
+      "L'Europe, un th\u00e9\u00e2tre majeur des guerres totales (1914-1945)",
+      "Le monde depuis 1945",
+      "Fran\u00e7aises et Fran\u00e7ais dans une R\u00e9publique repens\u00e9e"
+    ],
+    "Physique-chimie": [
+      "Les \u00e9tats de la mati\u00e8re",
+      "Les transformations chimiques",
+      "L'organisation de la mati\u00e8re dans l'Univers",
+      "Mouvements et interactions",
+      "L'\u00e9nergie",
+      "Les circuits \u00e9lectriques",
+      "Les signaux"
+    ],
+    "SVT": [
+      "La plan\u00e8te Terre, l'environnement et l'action humaine",
+      "Le climat et la m\u00e9t\u00e9orologie",
+      "L'exploitation des ressources naturelles",
+      "\u00c9cosyst\u00e8mes et activit\u00e9s humaines",
+      "Nutrition et organisation des animaux",
+      "Nutrition et organisation des plantes",
+      "Reproduction sexu\u00e9e et asexu\u00e9e : dynamique des populations",
+      "La parent\u00e9 des \u00eatres vivants",
+      "Diversit\u00e9 et stabilit\u00e9 g\u00e9n\u00e9tique des \u00eatres vivants",
+      "Le fonctionnement de l'organisme",
+      "Syst\u00e8me nerveux et comportement responsable",
+      "Alimentation et digestion",
+      "Le monde microbien et la sant\u00e9",
+      "Reproduction et comportements sexuels responsables "
+    ],
+    "Math\u00e9matiques": [
+      "Nombres et calculs",
+      "Organisation et gestion de donn\u00e9es \u2013 Fonctions",
+      "Grandeurs et mesures",
+      "Espace et g\u00e9om\u00e9trie",
+      "Sections planes",
+      "Arithm\u00e9tique",
+      "Calcul litt\u00e9ral : factoriser, \u00e9quation \"produit nul\"",
+      "Grandeurs compos\u00e9es"
+    ],
+    "G\u00e9ographie": [
+      "Dynamique territoriales de la France contemporaine",
+      "Pourquoi et comment am\u00e9nager le territoire ?",
+      "La France et l'Union europ\u00e9enne"
+    ]
+  },
+  "Seconde": {
+    "Fran\u00e7ais": [
+      "La po\u00e9sie du Moyen \u00c2ge au XVIIIe si\u00e8cle",
+      "La litt\u00e9rature d\u2019id\u00e9es et la presse du XIXe si\u00e8cle au XXIe si\u00e8cle",
+      "Le roman et le r\u00e9cit  du XVIIIe si\u00e8cle au XXIe si\u00e8cle",
+      "Le th\u00e9\u00e2tre du XVIIe si\u00e8cle au XXIe si\u00e8cle"
+    ],
+    "Math\u00e9matiques": [
+      "Nombres et calculs",
+      "G\u00e9om\u00e9trie",
+      "Fonctions",
+      "Statistiques et probabilit\u00e9s"
+    ],
+    "Physique-chimie": [
+      "Constitution et transformation de la mati\u00e8re",
+      "Mouvements et interactions",
+      "Ondes et signaux",
+      "Vision et image"
+    ],
+    "Enseignement moral et civique": [
+      "Des libert\u00e9s pour la libert\u00e9 : principes et conditions de la libert\u00e9",
+      "Garantir les libert\u00e9s, \u00e9tendre les libert\u00e9s : les libert\u00e9s en d\u00e9bat "
+    ],
+    "SVT": [
+      "La cellule unit\u00e9 du vivant",
+      "Biodiversit\u00e9, r\u00e9sultat et \u00e9tape de l'\u00e9volution",
+      "G\u00e9osciences et compr\u00e9hension des paysages",
+      "Nourrir l'humanit\u00e9 : vers une agriculture durable pour l'humanit\u00e9 ?",
+      "Procr\u00e9ation et sexualit\u00e9 humaine",
+      "Microorganismes et sant\u00e9"
+    ],
+    "SES": [
+      "Comment les \u00e9conomistes, les sociologues et les politistes raisonnent-ils et travaillent-ils ?",
+      "Comment cr\u00e9e-t-on des richesses et comment les mesure-t-on ?",
+      "Comment se forment les prix sur un march\u00e9 ?",
+      "Comment devenons-nous des acteurs sociaux ?",
+      "Comment s'organise la vie politique ?",
+      "Quelles relations entre le dipl\u00f4me, l'emploi et le salaire ?"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "G\u00e9ographie": [
+      "Soci\u00e9t\u00e9s et environnements : des \u00e9quilibres fragiles",
+      "Territoires et population : un d\u00e9fi pour le d\u00e9veloppement",
+      "Des mobilit\u00e9s humaines g\u00e9n\u00e9ralis\u00e9es",
+      "L'Afrique australe : un espace en profonde mutation"
+    ],
+    "Allemand": [
+      "La phrase",
+      "Le groupe nominal",
+      "Les groupes pr\u00e9positionnels",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Histoire": [
+      "L'histoire et son organisation",
+      "La M\u00e9diterran\u00e9e antique : les empreintes grecques et romaines",
+      "La M\u00e9diterran\u00e9e m\u00e9di\u00e9vale : espace d'\u00e9changes et de conflits \u00e0 la crois\u00e9e de trois civilisations",
+      "L'ouverture atlantique : les cons\u00e9quences de la d\u00e9couverte du \"Nouveau Monde\"",
+      "Renaissance, Humanisme et r\u00e9formes religieuses : les mutations de l'Europe",
+      "L'affirmation de l'Etat dans le royaume de France ",
+      "Le mod\u00e8le britannique et son influence",
+      "Les Lumi\u00e8res et le d\u00e9veloppement des sciences",
+      "Tensions, mutations et crispations de la soci\u00e9t\u00e9 d'ordres"
+    ]
+  },
+  "1ere": {
+    "Grand oral": [
+      "Pr\u00e9sentation g\u00e9n\u00e9rale",
+      "Les sujets",
+      "S\u2019entra\u00eener au Grand oral"
+    ],
+    "Fran\u00e7ais": [
+      "La po\u00e9sie du XIXe au XXIe si\u00e8cle",
+      "La litt\u00e9rature d\u2019id\u00e9es  du XVIe  au XVIIIe si\u00e8cle",
+      "Le roman et le r\u00e9cit du Moyen \u00c2ge au XXIe si\u00e8cle",
+      "Le th\u00e9\u00e2tre du XVIIe au XXIe si\u00e8cle",
+      "Anciens programmes"
+    ],
+    "Humanit\u00e9s": [
+      "La po\u00e9sie du XIXe au XXIe si\u00e8cle",
+      "La litt\u00e9rature d\u2019id\u00e9es  du XVIe  au XVIIIe si\u00e8cle",
+      "Le roman et le r\u00e9cit du Moyen \u00c2ge au XXIe si\u00e8cle",
+      "Le th\u00e9\u00e2tre du XVIIe au XXIe si\u00e8cle",
+      "Anciens programmes"
+    ],
+    "Physique-chimie": [
+      "Mouvements et interactions",
+      "Lumi\u00e8re, images et couleurs",
+      "\u00c9nergie : conversions et transferts",
+      "Constitution et transformations de la mati\u00e8re",
+      "Structure de la mati\u00e8re",
+      "Propri\u00e9t\u00e9s physico-chimiques"
+    ],
+    "SVT": [
+      "Transmission, variation et expression du patrimoine g\u00e9n\u00e9tique",
+      "La dynamique interne de la Terre",
+      "Les enjeux contemporains de la plan\u00e8te",
+      "Corps humain et sant\u00e9"
+    ],
+    "Math\u00e9matiques": [
+      "Alg\u00e8bre",
+      "Analyse",
+      "G\u00e9om\u00e9trie",
+      "Probabilit\u00e9 et statistiques"
+    ],
+    "Enseignement moral et civique": [
+      "Fondements et fragilit\u00e9s du lien social",
+      "Recomposition du lien social"
+    ],
+    "SES": [
+      "La coordination par le march\u00e9",
+      "La monnaie et le financement",
+      "Comment la socialisation contribue-t-elle \u00e0 expliquer les diff\u00e9rences de comportement des individus ?",
+      "Comment se construisent et \u00e9voluent les liens sociaux ?",
+      "Quels sont les processus sociaux qui contribuent \u00e0 la d\u00e9viance ?",
+      "Vote et opinion publique",
+      "Regards crois\u00e9s"
+    ],
+    "Enseignement scientifique": [
+      "Une longue histoire de la mati\u00e8re",
+      "Le Soleil, notre source d'\u00e9nergie",
+      "La Terre, un astre singulier",
+      "Son et musique, porteurs d'informations"
+    ],
+    "Histoire": [
+      "L'Europe face aux r\u00e9volutions",
+      "La France dans l'Europe des nationalit\u00e9s : politique et soci\u00e9t\u00e9 (1848-1871)",
+      "La Troisi\u00e8me R\u00e9publique avant 1914 : la mise en \u0153uvre du projet r\u00e9publicain",
+      "La Troisi\u00e8me R\u00e9publique avant 1914 : permanences et mutations de la soci\u00e9t\u00e9 fran\u00e7aise jusqu\u2019en 1914",
+      "La Troisi\u00e8me R\u00e9publique avant 1914 : m\u00e9tropoles et colonies",
+      "La Premi\u00e8re Guerre mondiale : le \"suicide de l'Europe\" et la fin des empires europ\u00e9ens"
+    ],
+    "G\u00e9opolitique et sciences politiques": [
+      "Comprendre un r\u00e9gime politique : la d\u00e9mocratie",
+      "Analyser les dynamiques des puissances internationales",
+      "\u00c9tudier les divisions politiques du monde : les fronti\u00e8res",
+      "S'informer : un regard critique sur les sources et les moyens de communication",
+      "Analyser les relations entre \u00c9tats et religions"
+    ],
+    "Num\u00e9rique et sciences informatiques": [
+      "Au c\u0153ur de l'ordinateur",
+      "L'ordinateur de bureau",
+      "R\u00e9seaux",
+      "Interagir sur le web",
+      "G\u00e9nie logiciel",
+      "Algorithmique et programmation"
+    ],
+    "Espagnol": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Allemand": [
+      "La phrase",
+      "Le groupe nominal",
+      "Les groupes pr\u00e9positionnels",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Sciences de l'ing\u00e9nieur": [
+      "Analyse du besoin",
+      "Statique du solide ind\u00e9formable",
+      "Th\u00e9orie des m\u00e9canismes",
+      "Cin\u00e9matique",
+      "Transfert de l\u2019information",
+      "\u00c9lectrocin\u00e9tique"
+    ],
+    "G\u00e9ographie": [
+      "Les villes \u00e0 l\u2019\u00e9chelle mondiale : le poids croissant des m\u00e9tropoles",
+      "Des m\u00e9tropoles in\u00e9gales et en mutation",
+      "La France : la m\u00e9tropolisation et ses effets",
+      "Les espaces de production dans le monde : une diversit\u00e9 croissante",
+      "M\u00e9tropolisation, littoralisation des espaces productifs et accroissement des flux",
+      "La France : les syst\u00e8mes productifs entre valorisation locale et int\u00e9gration europ\u00e9enne et mondiale",
+      "Les espaces ruraux : multifonctionnalit\u00e9 ou fragmentation ?",
+      "La France : des espaces ruraux multifonctionnels, entre initiatives locales et politiques europ\u00e9ennes",
+      "La Chine : des recompositions spatiales multiples"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ]
+  },
+  "Terminale": {
+    "Grand oral": [
+      "Pr\u00e9sentation g\u00e9n\u00e9rale",
+      "Les sujets",
+      "S\u2019entra\u00eener au Grand oral"
+    ],
+    "Allemand": [
+      "La phrase",
+      "Le groupe nominal",
+      "Les groupes pr\u00e9positionnels",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "Enseignement moral et civique": [
+      "Fondements et exp\u00e9riences de la d\u00e9mocratie",
+      "Repenser et faire vivre la d\u00e9mocratie"
+    ],
+    "SVT": [
+      "Origine de la diversit\u00e9 g\u00e9n\u00e9tique des esp\u00e8ces et cons\u00e9quences sur l\u2019\u00e9volution",
+      "\u00c0 la recherche du pass\u00e9 g\u00e9ologique de notre plan\u00e8te",
+      "De la plante sauvage \u00e0 la plante domestiqu\u00e9e",
+      "Les climats de la Terre, comprendre le pass\u00e9 pour agir aujourd\u2019hui et demain",
+      "Comportements, mouvement et syst\u00e8me nerveux",
+      "Produire le mouvement : contraction musculaire et apport d\u2019\u00e9nergie",
+      "Comportement et stress : vers une vision int\u00e9gr\u00e9e de l\u2019organisme"
+    ],
+    "Num\u00e9rique et sciences informatiques": [
+      "Appareils en r\u00e9seaux",
+      "Structures de donn\u00e9es",
+      "Bases de donn\u00e9es",
+      "G\u00e9nie logiciel",
+      "Algorithmique"
+    ],
+    "Histoire": [
+      "L'impact de la crise de 1929 : d\u00e9s\u00e9quilibres \u00e9conomiques et sociaux",
+      "Les r\u00e9gimes totalitaires",
+      "La Seconde Guerre mondiale",
+      "La fin de la Seconde Guerre mondiale et les d\u00e9buts d'un nouvel ordre mondial bipolaire",
+      "Une nouvelle donne g\u00e9opolitique : bipolarisation et \u00e9mergence du tiers-monde",
+      "La France : une nouvelle place dans le monde",
+      "La modification des grands \u00e9quilibres \u00e9conomiques et politiques",
+      "Un tournant social, politique et culturel, la France de 1974 \u00e0 1988",
+      "Nouveau rapports de puissance et enjeux mondiaux",
+      "La construction europ\u00e9enne entre \u00e9largissement, approfondissement et remise en question",
+      "La R\u00e9publique fran\u00e7aise"
+    ],
+    "Enseignement scientifique": [
+      "Science, climat et soci\u00e9t\u00e9 : sciences de l'atmosph\u00e8re",
+      "Science, climat et soci\u00e9t\u00e9 : cons\u00e9quences de la modification anthropique du climat et plans d\u2019action",
+      "Le futur des \u00e9nergies : l\u2019\u00e9lectricit\u00e9, approche historique et r\u00f4le central",
+      "Le futur des \u00e9nergies : l\u2019\u00e9lectricit\u00e9, \u00e9nergie du futur",
+      "Une histoire du vivant : biodiversit\u00e9 et dynamique des populations",
+      "Une histoire du vivant : th\u00e9orie de l\u2019\u00e9volution",
+      "Une histoire du vivant : impacts des nouvelles technologies sur le vivant"
+    ],
+    "SES": [
+      "Quelles sont les sources et les d\u00e9fis de la croissance \u00e9conomique ?",
+      "Quels sont les fondements du commerce international et de l\u2019internationalisation de la production ?",
+      "Comment lutter contre le ch\u00f4mage ?",
+      "Comment expliquer les crises financi\u00e8res et r\u00e9guler le syst\u00e8me financier ?",
+      "Quelles politiques \u00e9conomiques dans le cadre europ\u00e9en ?",
+      "Comment est structur\u00e9e la soci\u00e9t\u00e9 fran\u00e7aise actuelle ?",
+      "Quelle est l\u2019action de l\u2019\u00c9cole sur les destins individuels et sur l\u2019\u00e9volution de la soci\u00e9t\u00e9 ?",
+      "Quels sont les caract\u00e9ristiques contemporaines et les facteurs de la mobilit\u00e9 sociale ?",
+      "Quelles mutations du travail et de l\u2019emploi ?",
+      "Comment expliquer l\u2019engagement politique dans les soci\u00e9t\u00e9s d\u00e9mocratiques ?",
+      "Quelles in\u00e9galit\u00e9s sont compatibles avec les diff\u00e9rentes conceptions de la justice sociale ?",
+      "Quelle action publique pour l\u2019environnement ?"
+    ],
+    "Anglais": [
+      "La phrase",
+      "Le groupe nominal",
+      "Le groupe verbal",
+      "Les temps"
+    ],
+    "G\u00e9ographie": [
+      "Mers et oc\u00e9ans : au c\u0153ur de la mondialisation",
+      "Dynamiques territoriales, coop\u00e9rations et tensions dans la mondialisation",
+      "L\u2019Union europ\u00e9enne dans la mondialisation : des dynamiques complexes",
+      "La France et ses r\u00e9gions dans l\u2019Union europ\u00e9enne et dans la mondialisation : lignes de force et recompositions"
+    ],
+    "Philosophie": ["Cours"],
+    "Math\u00e9matiques": [
+      "Alg\u00e8bre et g\u00e9om\u00e9trie",
+      "Analyse",
+      "Probabilit\u00e9s",
+      "Option math\u00e9matiques expertes : Nombres complexes",
+      "Option math\u00e9matiques expertes : Arithm\u00e9tique",
+      "Option math\u00e9matiques expertes : Graphes et matrices",
+      "Option math\u00e9matiques compl\u00e9mentaires : Analyse",
+      "Option math\u00e9matiques compl\u00e9mentaires : Probabilit\u00e9s et statistique"
+    ],
+    "Physique-chimie": [
+      "D\u00e9terminer les composantes d\u2019un syst\u00e8me chimique",
+      "Mod\u00e9liser l\u2019\u00e9volution temporelle d\u2019un syst\u00e8me chimique",
+      "Pr\u00e9voir l\u2019\u00e9tat final d\u2019un syst\u00e8me chimique",
+      "Strat\u00e9gies en synth\u00e8se organique",
+      "Mouvements et interactions",
+      "L\u2019\u00e9nergie\u00a0: conversion et transferts",
+      "Ondes et signaux"
+    ],
+    "G\u00e9opolitique et sciences politiques": [
+      "De nouveaux espaces de conqu\u00eate",
+      "Faire la guerre, faire la paix : formes de conflits et modes de re\u0301solution",
+      "Histoire et m\u00e9moires",
+      "Les enjeux g\u00e9opolitiques li\u00e9s \u00e0 la conservation et \u00e0 la valorisation du patrimoine",
+      "L\u2019environnement, un enjeu plan\u00e9taire",
+      "L\u2019enjeu de la connaissance"
+    ]
+  }
+}
