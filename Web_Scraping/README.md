@@ -1,14 +1,13 @@
 # Scrape high school data 📚
 
-scrape [Schoolmouv's](https://www.schoolmouv.fr) website to get the title of each chapter in high school.
+iterate on each grade and subject on the [Schoolmouv site](https://www.schoolmouv.fr) to find all course chapters.
 
-- the final [JSON file](chapters.json)
-- the [script](main.py)
+- [Script](main.py) using `Selenium` and `Beautifulsoup`
+- [Final JSON file](chapters.json)
 
 ```
 iterate over each years:
     iterate over each subject:
-        initialize an empty list
         iterate over each chapter:
             save the chapter title
 ```
