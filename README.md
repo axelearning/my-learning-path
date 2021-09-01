@@ -28,7 +28,7 @@ A collection of selected projects to demonstrate skill sets, knowledge, and what
 
 - a **[REST API](https://github.com/axelearning/REST-authentication-API)** build to manage user authentication with Django. SOme interesting parts:
   - [Build an API](https://github.com/axelearning/REST-authentication-API) using `django` and `dj_rest_framework`
-  - [PythonOOP](https://github.com/axelearning/REST-authentication-API/tree/master/authentication/helper), write clean object oriented code according to some key principles
+  - [PythonOOP](https://github.com/axelearning/REST-authentication-API/tree/master/authentication), write clean object oriented code according to some key principles
   - [Test-driven development](https://github.com/axelearning/REST-authentication-API/tree/master/tests/tests_authentication), a set of unit tests used for the API development
     <br>
     <br>
