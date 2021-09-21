@@ -32,12 +32,10 @@ A collection of selected projects to demonstrate skill sets, knowledge, and what
   - [Test-driven development](https://github.com/axelearning/REST-authentication-API/tree/master/tests/tests_authentication), a set of unit tests used for the API development
     <br>
     <br>
+- [Notion Low code Tool](https://github.com/axelearning/notion_low_code_interface), an abstraction of Notion API where you could interact with Notion.so with just a few lines of code
+<br>
+<br>
 
-## In progress 🚧
-
-- Building a low code tool with [Naas](https://github.com/jupyter-naas) to let user easily interact with Notion API
-  <br>
-  <br>
 
 # 📚 BOOK
 
@@ -50,10 +48,16 @@ A collection of selected projects to demonstrate skill sets, knowledge, and what
 
 # 👩‍🏫 MOOC
 
-- **Maths** - [Introduction to Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) _by 3b1b_ - [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus) _by_ _Khan Academy_ - [Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) _by Khan Academy_
-  <br>
-  <br>
+- **Maths** 
+  - [Introduction to Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) _by 3b1b_ 
+  - [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus) _by_ _Khan Academy_ 
+  - [Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) _by Khan Academy_
 - **[CS50](https://cs50.harvard.edu/x/2021/)**, Harvard's introductory course on computer science
 - **[WEB50](https://cs50.harvard.edu/web/2020/)**, courses given by Harvard University to discover web development
-  <br>
-  <br>
+<br>
+<br>
+
+## In progress 🚧
+- [LeetCode problems](https://leetcode.com/problemset/all/) to prepare for interviews 
+<br>
+<br>
